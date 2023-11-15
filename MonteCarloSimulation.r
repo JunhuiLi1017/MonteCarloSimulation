@@ -7,6 +7,7 @@
 #` pond randomly. The proportion of unique elements in each sample 
 #` are calculated. This process is repeated 10000 time for each sample size n. 
 
+
 #` N samplesize, default is 50(we selected 26, 50 and 100 in our study)
 #` times repeated times, default is 10000
 
